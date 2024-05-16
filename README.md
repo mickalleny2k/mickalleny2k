@@ -1,7 +1,9 @@
 ### Hi there 👋
-Here are the link to my web app: 
-- https://mickalleny2k.pythonanywhere.com/
-- https://mickalleny2k.pythonanywhere.com/simonviewer.html
+Here are the links to my web app: 
+- https://mickalleny2k.pythonanywhere.com
+- https://mickalleny2k.pythonanywhere.com/projectviewer.html
+- https://mickalleny2k.pythonanywhere.com/residentviewer.html
+- https://mickalleny2k.pythonanywhere.com/fakenames.html
 
 I made this web app for the Web Services and Applications (WSAA) module of the Data Analytics course I'm taking at ATU.
 
