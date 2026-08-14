@@ -1,12 +1,10 @@
 ### Hi there 👋
-Here's the link to my web app: 
+Here's the link to the web app I developed for FedNet: 
 - [FedNet Transcription Service](https://fednet.pythonanywhere.com)
-
-I made this web app for FedNet.
 
 FedNet streams live video of floor debates, Congressional hearings and news events for clients. 
 
-FedNet provides news data and transcripts to clients whose users need to know now. 
+FedNet provides news data and transcripts to clients.
 
 <!--
 **mickalleny2k/mickalleny2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
