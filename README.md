@@ -1,5 +1,5 @@
 ### Hi there 👋
-Here are the links to my web app: 
+Here's the link to my web app: 
 - [FedNet Transcription Service](https://fednet.pythonanywhere.com)
 
 I made this web app for FedNet.
