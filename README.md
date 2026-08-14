@@ -1,9 +1,11 @@
 ### Hi there 👋
 Here are the links to my web app: 
-- ([FedNet Transcription Service] https://fednet.pythonanywhere.com)
+- [FedNet Transcription Service](https://fednet.pythonanywhere.com)
 
 I made this web app for FedNet.
+
 FedNet streams live video of floor debates, Congressional hearings and news events for clients. 
+
 FedNet provides news data and transcripts to clients whose users need to know now. 
 
 <!--
