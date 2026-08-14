@@ -1,8 +1,10 @@
 ### Hi there 👋
 Here are the links to my web app: 
-- [https://fednet.pythonanywhere.com] (FEDNET Transcription Service)
+- [FedNet Transcription Service] (https://fednet.pythonanywhere.com)
 
-I made this web app for the Web Services and Applications (WSAA) module of the Data Analytics course I'm taking at ATU.
+I made this web app for FedNet.
+FedNet streams live video of floor debates, Congressional hearings and news events for clients. 
+FedNet provides news data and transcripts to clients whose users need to know now. 
 
 <!--
 **mickalleny2k/mickalleny2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
