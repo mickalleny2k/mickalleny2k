@@ -4,7 +4,9 @@ Here's the link to the web app I developed for FedNet:
 
 FedNet streams live video of floor debates, Congressional hearings and news events for clients. 
 
-FedNet provides news data and transcripts to clients.
+FedNet has been providing news data and transcripts to clients for over 30 years.
+
+FedNet has been called on by news organizations to meet and exceed their live and archived multimedia needs.
 
 <!--
 **mickalleny2k/mickalleny2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
